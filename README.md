@@ -1,2 +1,2 @@
 # Interfaz-CanSat
-interfaz de telemetria de un cansat
+Interfaz de telemetria de un Cansat
